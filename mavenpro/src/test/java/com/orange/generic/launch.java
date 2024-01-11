@@ -16,6 +16,7 @@ public class launch {
 	 driver=new FirefoxDriver();
 	 driver.get(url);
 	 Thread.sleep(2000);
+	 ok
  }
  @BeforeMethod
  public void login()
